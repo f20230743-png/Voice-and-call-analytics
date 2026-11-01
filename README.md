@@ -73,10 +73,6 @@ CSST/
 ├── main.py             # Entry point for CLI and dashboard
 └── README.md           # Project documentation
 ```
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## References
 - [OpenAI Whisper](https://github.com/openai/whisper)
 - [HuggingFace Transformers](https://huggingface.co/transformers/)
